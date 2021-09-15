@@ -1,0 +1,1852 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "39",
+        "1:00": "3",
+        "sensor_name": "AlfPl_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "In 4/12/2019 sensor upgraded",
+        "status": "A",
+        "installation_date": "2019/12/4",
+        "location": "(-37.81379749, 144.96995745)",
+        "sensor_description": "Alfred Place"
+      },
+      "geometry": {
+        "coordinates": [
+          144.969957,
+          -37.813797
+        ],
+        "type": "Point"
+      },
+      "id": "04b99ab59afcbc8549c0a4e4d880e465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "57",
+        "1:00": "6",
+        "sensor_name": "BouBri_T",
+        "direction_1": "West",
+        "direction_2": "East",
+        "note": "",
+        "status": "A",
+        "installation_date": "2018/8/13",
+        "location": "(-37.8176735, 144.95025595)",
+        "sensor_description": "Bourke St Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          144.950256,
+          -37.817673
+        ],
+        "type": "Point"
+      },
+      "id": "04d17f86d136e3feaf849e14f5cff68e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "2",
+        "1:00": "23",
+        "sensor_name": "Bou283_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2009/3/30",
+        "location": "(-37.81380667, 144.96516719)",
+        "sensor_description": "Bourke Street Mall (South)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965167,
+          -37.813806
+        ],
+        "type": "Point"
+      },
+      "id": "067d66dca8b5485b0bc351fbbdc0ef0c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "72",
+        "1:00": "3",
+        "sensor_name": "ACMI_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2020/11/30",
+        "location": "(-37.81726337, 144.96872809)",
+        "sensor_description": "Flinders St- ACMI"
+      },
+      "geometry": {
+        "coordinates": [
+          144.968728,
+          -37.817263
+        ],
+        "type": "Point"
+      },
+      "id": "06f1da42d261febb9c356816adf40273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "47",
+        "1:00": "3",
+        "sensor_name": "Eli250_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2017/8/24",
+        "location": "(-37.81160331, 144.96220077)",
+        "sensor_description": "Melbourne Central-Elizabeth St (East)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.9622,
+          -37.811603
+        ],
+        "type": "Point"
+      },
+      "id": "08d56f1bdf32dcbcaf4fc1a4a5e3cb7a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "40",
+        "1:00": "7",
+        "sensor_name": "Spr201_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2015/1/19",
+        "location": "(-37.80999341, 144.97227588)",
+        "sensor_description": "Lonsdale St-Spring St (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.972275,
+          -37.809993
+        ],
+        "type": "Point"
+      },
+      "id": "18f5bf5697d1ae10db7a339a12c6d624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "43",
+        "1:00": "23",
+        "sensor_name": "UM2_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2015/4/15",
+        "location": "(-37.79844525, 144.96411782)",
+        "sensor_description": "Monash Rd-Swanston St (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.964117,
+          -37.798445
+        ],
+        "type": "Point"
+      },
+      "id": "23ffd67ca6a7d6a610ba39e3edc6cc85"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "49",
+        "1:00": "232",
+        "sensor_name": "Eli501_T",
+        "direction_1": "West",
+        "direction_2": "East",
+        "note": "",
+        "status": "A",
+        "installation_date": "2017/11/29",
+        "location": "(-37.80730067, 144.95956055)",
+        "sensor_description": "QVM-Therry St (South)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.95956,
+          -37.8073
+        ],
+        "type": "Point"
+      },
+      "id": "2ad7beecad828f64132fd87e5ff74cb1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "22",
+        "1:00": "6",
+        "sensor_name": "Eli274_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2013/8/12",
+        "location": "(-37.81786445, 144.96506823)",
+        "sensor_description": "Flinders St-Elizabeth St (East)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965068,
+          -37.817864
+        ],
+        "type": "Point"
+      },
+      "id": "2aea3bf1b2c19cea6b5cbde94e13983d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "1",
+        "1:00": "234",
+        "sensor_name": "Bou292_T",
+        "direction_1": "West",
+        "direction_2": "East",
+        "note": "",
+        "status": "A",
+        "installation_date": "2009/3/24",
+        "location": "(-37.8134944, 144.96515324)",
+        "sensor_description": "Bourke Street Mall (North)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965153,
+          -37.813494
+        ],
+        "type": "Point"
+      },
+      "id": "2f3d6c2bd0729ea4dda9ac6d62d4b648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "8",
+        "1:00": "3",
+        "sensor_name": "WebBN_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2009/3/24",
+        "location": "(-37.82293543, 144.94717511)",
+        "sensor_description": "Webb Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          144.947175,
+          -37.822935
+        ],
+        "type": "Point"
+      },
+      "id": "375c549f9f92a92db3180239dbc29381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "21",
+        "1:00": "7",
+        "sensor_name": "Rus180_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2013/9/2",
+        "location": "(-37.81244703, 144.96778757)",
+        "sensor_description": "Bourke St-Russell St (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.967787,
+          -37.812447
+        ],
+        "type": "Point"
+      },
+      "id": "3952757bdbc58ed06a9eb2a16dc001c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "41",
+        "1:00": "23",
+        "sensor_name": "Swa31",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2017/6/29",
+        "location": "(-37.81668633, 144.96689733)",
+        "sensor_description": "Flinders La-Swanston St (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.966897,
+          -37.816686
+        ],
+        "type": "Point"
+      },
+      "id": "3a57c28cff00decf7227b3e0cbdab9cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "70",
+        "1:00": "1",
+        "sensor_name": "Errol20_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2020/10/12",
+        "location": "(-37.80456984, 144.94946229)",
+        "sensor_description": "Errol Street (East)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.949462,
+          -37.804569
+        ],
+        "type": "Point"
+      },
+      "id": "3e2073b57865d70b661753a1d41702de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "62",
+        "1:00": "5",
+        "sensor_name": "Lat224_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2019/9/25",
+        "location": "(-37.80996494, 144.96216521)",
+        "sensor_description": "La Trobe St (North)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962165,
+          -37.809964
+        ],
+        "type": "Point"
+      },
+      "id": "401cd86bc5de60028ed993ab2a9e4e95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "60",
+        "1:00": "52",
+        "sensor_name": "Swa31T_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "Temporary for the duration of the metro tunnel works. Installed under the scaffolding.",
+        "status": "R",
+        "installation_date": "2019/3/8",
+        "location": "(-37.81668188, 144.9668954)",
+        "sensor_description": "Flinders La - Swanston St (West) Temporary"
+      },
+      "geometry": {
+        "coordinates": [
+          144.966895,
+          -37.816681
+        ],
+        "type": "Point"
+      },
+      "id": "41a85797fa206aa758f550936d607188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "73",
+        "1:00": "234",
+        "sensor_name": "Bou655_T",
+        "direction_1": "West",
+        "direction_2": "East",
+        "note": "",
+        "status": "A",
+        "installation_date": "2020/10/2",
+        "location": "(-37.81695684, 144.95415373)",
+        "sensor_description": "Bourke St - Spencer St (South)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.954153,
+          -37.816956
+        ],
+        "type": "Point"
+      },
+      "id": "44cc075a1affd229e9f97e83e40db6df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "31",
+        "1:00": "5",
+        "sensor_name": "Lyg161_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2013/10/10",
+        "location": "(-37.8016968, 144.96658911)",
+        "sensor_description": "Lygon St (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.966589,
+          -37.801696
+        ],
+        "type": "Point"
+      },
+      "id": "49e9a18e3ea55ad841c42de0f1d02759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "11",
+        "1:00": "23",
+        "sensor_name": "WatCit_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2009/1/20",
+        "location": "(-37.81564989, 144.93970695)",
+        "sensor_description": "Waterfront City"
+      },
+      "geometry": {
+        "coordinates": [
+          144.939707,
+          -37.815649
+        ],
+        "type": "Point"
+      },
+      "id": "4bda09b7ea261dbd19a16aeb3655aaf5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "45",
+        "1:00": "20",
+        "sensor_name": "Swa148_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2017/6/29",
+        "location": "(-37.81414074, 144.9660938)",
+        "sensor_description": "Little Collins St-Swanston St (East)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.966093,
+          -37.81414
+        ],
+        "type": "Point"
+      },
+      "id": "4dd35973910da196fa91c6238edc5744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "33",
+        "1:00": "3",
+        "sensor_name": "Spr13_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "R",
+        "installation_date": "2014/4/23",
+        "location": "(-37.81483252, 144.97454056)",
+        "sensor_description": "Flinders St-Spring St (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.97454,
+          -37.814832
+        ],
+        "type": "Point"
+      },
+      "id": "52896b1b19a9531102928272791e1869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "50",
+        "1:00": "12",
+        "sensor_name": "Lyg309_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2017/11/30",
+        "location": "(-37.79808191, 144.96721014)",
+        "sensor_description": "Faraday St-Lygon St (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96721,
+          -37.798081
+        ],
+        "type": "Point"
+      },
+      "id": "5817c257973fcfaa95e6020335f1ad99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "4",
+        "1:00": "7",
+        "sensor_name": "Swa123_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2009/3/23",
+        "location": "(-37.81487988, 144.9660878)",
+        "sensor_description": "Town Hall (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.966087,
+          -37.814879
+        ],
+        "type": "Point"
+      },
+      "id": "5ce4534d12b32e81661c23aa716725b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "12",
+        "1:00": "3",
+        "sensor_name": "NewQ_T",
+        "direction_1": "West",
+        "direction_2": "East",
+        "note": "",
+        "status": "A",
+        "installation_date": "2009/1/21",
+        "location": "(-37.81457987, 144.94292398)",
+        "sensor_description": "New Quay"
+      },
+      "geometry": {
+        "coordinates": [
+          144.942924,
+          -37.814579
+        ],
+        "type": "Point"
+      },
+      "id": "5e90d99346fd969ea6e1e254e07d8257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "7",
+        "1:00": "2",
+        "sensor_name": "Fed_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2014/12/17",
+        "location": "(-37.81862929, 144.97169395)",
+        "sensor_description": "Birrarung Marr"
+      },
+      "geometry": {
+        "coordinates": [
+          144.971694,
+          -37.818629
+        ],
+        "type": "Point"
+      },
+      "id": "5f4f3e1f0645b1bdac6d8aaac4974e64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "75",
+        "1:00": "232",
+        "sensor_name": "SprFli_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2020/12/18",
+        "location": "(-37.81515275, 144.97467662)",
+        "sensor_description": "Spring St- Flinders st (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.974676,
+          -37.815152
+        ],
+        "type": "Point"
+      },
+      "id": "65c3a46019a091d602110c7595ba99b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "44",
+        "1:00": "8",
+        "sensor_name": "UM3_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2015/4/15",
+        "location": "(-37.79690473, 144.96440378)",
+        "sensor_description": "Tin Alley-Swanston St (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.964403,
+          -37.796904
+        ],
+        "type": "Point"
+      },
+      "id": "690aefabd648a64c298c3c0f332e143a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "42",
+        "1:00": "8",
+        "sensor_name": "UM1_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2015/4/15",
+        "location": "(-37.80008565, 144.96386412)",
+        "sensor_description": "Grattan St-Swanston St (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.963864,
+          -37.800085
+        ],
+        "type": "Point"
+      },
+      "id": "75d80be7a15bb4134f825f34c0a02e17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "28",
+        "1:00": "4",
+        "sensor_name": "VAC_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2013/8/23",
+        "location": "(-37.82129924, 144.96879309)",
+        "sensor_description": "The Arts Centre"
+      },
+      "geometry": {
+        "coordinates": [
+          144.968793,
+          -37.821299
+        ],
+        "type": "Point"
+      },
+      "id": "77842b0873d67ad63dc93e9a175f02e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "51",
+        "1:00": "12",
+        "sensor_name": "Fra118_T",
+        "direction_1": "West",
+        "direction_2": "East",
+        "note": "",
+        "status": "A",
+        "installation_date": "2017/11/30",
+        "location": "(-37.80841814, 144.95906317)",
+        "sensor_description": "QVM-Franklin St (North)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.959063,
+          -37.808418
+        ],
+        "type": "Point"
+      },
+      "id": "79b21fc47b7d06c4542c1cd40f73be4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "37",
+        "1:00": "8",
+        "sensor_name": "Lyg260_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2015/2/11",
+        "location": "(-37.80310271, 144.96671452)",
+        "sensor_description": "Lygon St (East)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.966714,
+          -37.803102
+        ],
+        "type": "Point"
+      },
+      "id": "7eae0335c367fb87709f997bd30a35a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "61",
+        "1:00": "1",
+        "sensor_name": "RMIT14_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2019/6/28",
+        "location": "(-37.80767455, 144.96309115)",
+        "sensor_description": "RMIT Building 14"
+      },
+      "geometry": {
+        "coordinates": [
+          144.963091,
+          -37.807674
+        ],
+        "type": "Point"
+      },
+      "id": "81a65d91a0e9b3489bcace561adc65b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "63",
+        "1:00": "24",
+        "sensor_name": "Bou231_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2020/1/7",
+        "location": "(-37.81333081, 144.96675572)",
+        "sensor_description": "231 Bourke St"
+      },
+      "geometry": {
+        "coordinates": [
+          144.966755,
+          -37.81333
+        ],
+        "type": "Point"
+      },
+      "id": "820bc743a64ef0adfc1c5effe721fd4c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "19",
+        "1:00": "4",
+        "sensor_name": "LtB210_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2013/9/2",
+        "location": "(-37.81237202, 144.96550671)",
+        "sensor_description": "Chinatown-Swanston St (North)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965506,
+          -37.812372
+        ],
+        "type": "Point"
+      },
+      "id": "85ffaf0be5349dd8de3fcd6f663f08f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "34",
+        "1:00": "5",
+        "sensor_name": "Fli32_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2014/6/8",
+        "location": "(-37.81537985, 144.9741505)",
+        "sensor_description": "Flinders St-Spark La"
+      },
+      "geometry": {
+        "coordinates": [
+          144.97415,
+          -37.815379
+        ],
+        "type": "Point"
+      },
+      "id": "8da8372eadefcde293bfca0a669c8d25"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "66",
+        "1:00": "34",
+        "sensor_name": "QVN_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2020/4/6",
+        "location": "(-37.81057845, 144.96444294)",
+        "sensor_description": "State Library - New"
+      },
+      "geometry": {
+        "coordinates": [
+          144.964442,
+          -37.810578
+        ],
+        "type": "Point"
+      },
+      "id": "93fc6f47f3bf261adcfe4404a53d5b31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "53",
+        "1:00": "23",
+        "sensor_name": "Col254_T",
+        "direction_1": "West",
+        "direction_2": "East",
+        "note": "",
+        "status": "A",
+        "installation_date": "2015/9/23",
+        "location": "(-37.8156419, 144.965499)",
+        "sensor_description": "Collins Street (North)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965499,
+          -37.815641
+        ],
+        "type": "Point"
+      },
+      "id": "969a5a008cf10bab7143a3456fe4b2f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "77",
+        "1:00": "4",
+        "sensor_name": "HarEsP_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2021/3/25",
+        "location": "(-37.81441438, 144.94433026)",
+        "sensor_description": "Harbour Esplanade (West) - Pedestrian path"
+      },
+      "geometry": {
+        "coordinates": [
+          144.94433,
+          -37.814414
+        ],
+        "type": "Point"
+      },
+      "id": "9883eb7ef36669abc73cde9564066b30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "68",
+        "1:00": "23",
+        "sensor_name": "FLDegN_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2020/6/3",
+        "location": "(-37.81684789, 144.96559789)",
+        "sensor_description": "Flinders Ln -Degraves St (North)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965597,
+          -37.816847
+        ],
+        "type": "Point"
+      },
+      "id": "9ebbbe8fd35e4d1b434dff9b42d417dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "71",
+        "1:00": "2",
+        "sensor_name": "WestWP_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2020/10/16",
+        "location": "(-37.81235775, 144.97136962)",
+        "sensor_description": "Westwood Place"
+      },
+      "geometry": {
+        "coordinates": [
+          144.971369,
+          -37.812357
+        ],
+        "type": "Point"
+      },
+      "id": "a2e36995ad06ce5b709f96487f095529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "3",
+        "1:00": "2",
+        "sensor_name": "Swa295_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2009/3/25",
+        "location": "(-37.81101523, 144.96429485)",
+        "sensor_description": "Melbourne Central"
+      },
+      "geometry": {
+        "coordinates": [
+          144.964294,
+          -37.811015
+        ],
+        "type": "Point"
+      },
+      "id": "a8b0709082f3544f9e75d8fecc9004be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "69",
+        "1:00": "1",
+        "sensor_name": "FLDegC_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2020/6/3",
+        "location": "(-37.81687225, 144.96559145)",
+        "sensor_description": "Flinders Ln -Degraves St (Crossing)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965591,
+          -37.816872
+        ],
+        "type": "Point"
+      },
+      "id": "aad510515749972ad529bc93b788ddb7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "36",
+        "1:00": "0",
+        "sensor_name": "Que85_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2015/1/20",
+        "location": "(-37.81652527, 144.96121063)",
+        "sensor_description": "Queen St (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96121,
+          -37.816525
+        ],
+        "type": "Point"
+      },
+      "id": "ad7a0045c8580b52d96b7ba0dff39ceb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensor_id": "35",
+        "1:00": "8",
+        "sensor_name": "SouthB_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "River side",
+        "status": "A",
+        "installation_date": "2021/4/15",
+        "location": "(-37.82017828, 144.96508877)",
+        "sensor_description": "Southbank"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965088,
+          -37.820178
+        ],
+        "type": "Point"
+      },
+      "id": "b2344d8891613a29019c370f90d53666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "16",
+        "1:00": "5",
+        "sensor_name": "Col270_T",
+        "direction_1": "",
+        "direction_2": "",
+        "note": "Device moved to location ID 53 (22/09/2015)",
+        "status": "R",
+        "installation_date": "2009/3/30",
+        "location": "(-37.81573423, 144.96521044)",
+        "sensor_description": "Australia on Collins"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96521,
+          -37.815734
+        ],
+        "type": "Point"
+      },
+      "id": "b3595a4a1f01996b8d0184b2a5eca800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "25",
+        "1:00": "23",
+        "sensor_name": "MCEC_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "Sensor relocated from 14 to 25 on 2/10/2019",
+        "status": "A",
+        "installation_date": "2019/10/2",
+        "location": "(-37.82401776, 144.95604426)",
+        "sensor_description": "Melbourne Convention Exhibition Centre"
+      },
+      "geometry": {
+        "coordinates": [
+          144.956044,
+          -37.824017
+        ],
+        "type": "Point"
+      },
+      "id": "b4bc5ae9b3ea45d8b221fe4e55acddb1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "64",
+        "1:00": "23",
+        "sensor_name": "Grat292_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2020/1/16",
+        "location": "(-37.79949544, 144.95792282)",
+        "sensor_description": "Royal Pde - Grattan St"
+      },
+      "geometry": {
+        "coordinates": [
+          144.957922,
+          -37.799495
+        ],
+        "type": "Point"
+      },
+      "id": "b860d34685a66ef308c606d4da7fcc4c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "54",
+        "1:00": "5",
+        "sensor_name": "Swa607_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2018/6/26",
+        "location": "(-37.804024, 144.963084)",
+        "sensor_description": "Lincoln-Swanston (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.963084,
+          -37.804024
+        ],
+        "type": "Point"
+      },
+      "id": "b8b93f998dd62d75716e0b602af06b60"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "20",
+        "1:00": "23",
+        "sensor_name": "LtB170_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2013/9/6",
+        "location": "(-37.81172913, 144.9682466)",
+        "sensor_description": "Chinatown-Lt Bourke St (South)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.968246,
+          -37.811729
+        ],
+        "type": "Point"
+      },
+      "id": "bacddcf96a4e02a52048ad06c0a3c472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "52",
+        "1:00": "3",
+        "sensor_name": "Eli263_T",
+        "direction_1": "West",
+        "direction_2": "East",
+        "note": "",
+        "status": "A",
+        "installation_date": "2017/7/31",
+        "location": "(-37.81252157, 144.9619401)",
+        "sensor_description": "Elizabeth St-Lonsdale St (South)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96194,
+          -37.812521
+        ],
+        "type": "Point"
+      },
+      "id": "bb0e5813378b4366e5e670efdabdb23d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "5",
+        "1:00": "0",
+        "sensor_name": "PriNW_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2009/3/26",
+        "location": "(-37.81874249, 144.96787656)",
+        "sensor_description": "Princes Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          144.967876,
+          -37.818742
+        ],
+        "type": "Point"
+      },
+      "id": "bd3d4eb7d77ca7395ecde168a6226ad4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "78",
+        "1:00": "5",
+        "sensor_name": "HarEsB_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2021/3/30",
+        "location": "(-37.81471642, 144.9446508)",
+        "sensor_description": "Harbour Esplanade (West) - Bike Path"
+      },
+      "geometry": {
+        "coordinates": [
+          144.94465,
+          -37.814716
+        ],
+        "type": "Point"
+      },
+      "id": "c0b1f388ee3968114fccdbf4112c39e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "76",
+        "1:00": "6",
+        "sensor_name": "KenMac_T",
+        "direction_1": "West",
+        "direction_2": "East",
+        "note": "",
+        "status": "A",
+        "installation_date": "2021/2/20",
+        "location": "(-37.79453802, 144.93036194)",
+        "sensor_description": "Macaulay Rd- Bellair St"
+      },
+      "geometry": {
+        "coordinates": [
+          144.930361,
+          -37.794538
+        ],
+        "type": "Point"
+      },
+      "id": "c7b637367c69ca583cfc76c3cfc3805e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "29",
+        "1:00": "3",
+        "sensor_name": "AG_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "sensor upgraded from laser to 3D on 19/12/2019",
+        "status": "A",
+        "installation_date": "2013/10/11",
+        "location": "(-37.81965808, 144.96863453)",
+        "sensor_description": "St Kilda Rd-Alexandra Gardens"
+      },
+      "geometry": {
+        "coordinates": [
+          144.968634,
+          -37.819658
+        ],
+        "type": "Point"
+      },
+      "id": "c91b216b5717fdb12008716a1ea7ccbe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "18",
+        "1:00": "234",
+        "sensor_name": "Col12_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2009/3/30",
+        "location": "(-37.81344861, 144.97305354)",
+        "sensor_description": "Collins Place (North)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.973053,
+          -37.813448
+        ],
+        "type": "Point"
+      },
+      "id": "cbbc5d78f94dbb10a54f615c1c073752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "26",
+        "1:00": "23",
+        "sensor_name": "Eli483_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "A",
+        "installation_date": "2013/9/28",
+        "location": "(-37.80869542, 144.96049404)",
+        "sensor_description": "QV Market-Elizabeth St (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.960494,
+          -37.808695
+        ],
+        "type": "Point"
+      },
+      "id": "cdbd8992e025160db56885ab713cb84b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "14",
+        "1:00": "234",
+        "sensor_name": "SanBri_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2019/9/25",
+        "location": "(-37.82011242, 144.96291898)",
+        "sensor_description": "Sandridge Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962919,
+          -37.820112
+        ],
+        "type": "Point"
+      },
+      "id": "d183d1e5f231d4f69818b6cbafe4db16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "48",
+        "1:00": "0",
+        "sensor_name": "QVMQ_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2017/10/2",
+        "location": "(-37.80631581, 144.95866698)",
+        "sensor_description": "QVM-Queen St (East)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.958667,
+          -37.806315
+        ],
+        "type": "Point"
+      },
+      "id": "d1e4f33beb09ff94fa364013ba54b30b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "24",
+        "1:00": "7",
+        "sensor_name": "Col620_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2013/9/2",
+        "location": "(-37.81887962, 144.95449198)",
+        "sensor_description": "Spencer St-Collins St (North)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.954492,
+          -37.818879
+        ],
+        "type": "Point"
+      },
+      "id": "d311e11f18d9852f6e02d87b795533bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "58",
+        "1:00": "12",
+        "sensor_name": "Bou688_T",
+        "direction_1": "West",
+        "direction_2": "East",
+        "note": "",
+        "status": "A",
+        "installation_date": "2018/9/27",
+        "location": "(-37.81686074, 144.95358075)",
+        "sensor_description": "Bourke St - Spencer St (North)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.95358,
+          -37.81686
+        ],
+        "type": "Point"
+      },
+      "id": "d7c733e02cd92256e141be660f5dc4dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "59",
+        "1:00": "232",
+        "sensor_name": "RMIT_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2019/2/13",
+        "location": "(-37.80825648, 144.96304859)",
+        "sensor_description": "Building 80 RMIT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.963048,
+          -37.808256
+        ],
+        "type": "Point"
+      },
+      "id": "d816cc8eb597fd441d06353bef65519b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "30",
+        "1:00": "232",
+        "sensor_name": "Lon189_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2013/10/14",
+        "location": "(-37.81121849, 144.96656807)",
+        "sensor_description": "Lonsdale St (South)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.966568,
+          -37.811218
+        ],
+        "type": "Point"
+      },
+      "id": "d83273d00b706f90c447464310a4a31f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "6",
+        "1:00": "23",
+        "sensor_name": "FliS_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2009/3/25",
+        "location": "(-37.81911704, 144.96558256)",
+        "sensor_description": "Flinders Street Station Underpass"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965582,
+          -37.819117
+        ],
+        "type": "Point"
+      },
+      "id": "d86636e5b48a69240d52831e0c99c9c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "13",
+        "1:00": "343",
+        "sensor_name": "Wil277_T",
+        "direction_1": "",
+        "direction_2": "",
+        "note": "",
+        "status": "R",
+        "installation_date": "2009/3/24",
+        "location": "(-37.81239679, 144.95652653)",
+        "sensor_description": "Flagstaff Station"
+      },
+      "geometry": {
+        "coordinates": [
+          144.956526,
+          -37.812396
+        ],
+        "type": "Point"
+      },
+      "id": "da755d2872235f57e7b768e2f8cee2a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "17",
+        "1:00": "432",
+        "sensor_name": "Col15_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "Device is upgraded in 26/02/2020",
+        "status": "A",
+        "installation_date": "2009/3/30",
+        "location": "(-37.81362542, 144.97323592)",
+        "sensor_description": "Collins Place (South)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.973235,
+          -37.813625
+        ],
+        "type": "Point"
+      },
+      "id": "df029aac7527f219923edd082e8de359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "55",
+        "1:00": "40",
+        "sensor_name": "Eli380_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2018/7/19",
+        "location": "(-37.80988941, 144.96134331)",
+        "sensor_description": "Elizabeth St-La Trobe St (East)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.961343,
+          -37.809889
+        ],
+        "type": "Point"
+      },
+      "id": "e1fa0f6826e8878fec26310fcdde889e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "10",
+        "1:00": "3",
+        "sensor_name": "BouHbr_T",
+        "direction_1": "West",
+        "direction_2": "East",
+        "note": "",
+        "status": "A",
+        "installation_date": "2009/4/23",
+        "location": "(-37.81876473, 144.94710545)",
+        "sensor_description": "Victoria Point"
+      },
+      "geometry": {
+        "coordinates": [
+          144.947105,
+          -37.818764
+        ],
+        "type": "Point"
+      },
+      "id": "e22ffd4de240ac68d33928d6089a22fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "46",
+        "1:00": "5",
+        "sensor_name": "Pel147_T",
+        "direction_1": "West",
+        "direction_2": "East",
+        "note": "",
+        "status": "A",
+        "installation_date": "2017/7/10",
+        "location": "(-37.80240719, 144.96156731)",
+        "sensor_description": "Pelham St (South)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.961567,
+          -37.802407
+        ],
+        "type": "Point"
+      },
+      "id": "e2552157ce8b67e4ac61543afc84352a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "27",
+        "1:00": "5",
+        "sensor_name": "Vic_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2013/8/16",
+        "location": "(-37.80606888, 144.95644693)",
+        "sensor_description": "QV Market-Peel St"
+      },
+      "geometry": {
+        "coordinates": [
+          144.956446,
+          -37.806068
+        ],
+        "type": "Point"
+      },
+      "id": "e88b5819a3a03e1203df76d034533dcf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "67",
+        "1:00": "34",
+        "sensor_name": "FLDegS_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2020/6/3",
+        "location": "(-37.81688755, 144.9656257)",
+        "sensor_description": "Flinders Ln -Degraves St (South)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.965625,
+          -37.816887
+        ],
+        "type": "Point"
+      },
+      "id": "e9580eeac32f6f74d137280084e53949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "38",
+        "1:00": "5",
+        "sensor_name": "Swa11_T",
+        "direction_1": "",
+        "direction_2": "",
+        "note": "Device has been removed (17/02/2017)",
+        "status": "R",
+        "installation_date": "2014/12/5",
+        "location": "(-37.81723437, 144.96715033)",
+        "sensor_description": "Flinders St-Swanston St (West)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96715,
+          -37.817234
+        ],
+        "type": "Point"
+      },
+      "id": "eb0a3dde5908025cc0820105fdd67f72"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "9",
+        "1:00": "234",
+        "sensor_name": "Col700_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2009/3/23",
+        "location": "(-37.81982992, 144.95102556)",
+        "sensor_description": "Southern Cross Station"
+      },
+      "geometry": {
+        "coordinates": [
+          144.951025,
+          -37.819829
+        ],
+        "type": "Point"
+      },
+      "id": "ed2297b02288880a8acd9ded7d77752e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "15",
+        "1:00": "234",
+        "sensor_name": "QV_T",
+        "direction_1": "South",
+        "direction_2": "North",
+        "note": "",
+        "status": "R",
+        "installation_date": "2009/3/25",
+        "location": "(-37.81064378, 144.96447132)",
+        "sensor_description": "State Library"
+      },
+      "geometry": {
+        "coordinates": [
+          144.964471,
+          -37.810643
+        ],
+        "type": "Point"
+      },
+      "id": "ef3802b60e1acba9c9602768b8a4b9ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "32",
+        "1:00": "6",
+        "sensor_name": "CSq_T",
+        "direction_1": "",
+        "direction_2": "",
+        "note": "Device has been removed (24/01/2017)",
+        "status": "R",
+        "installation_date": "2013/12/20",
+        "location": "(-37.81573742, 144.96685718)",
+        "sensor_description": "City Square"
+      },
+      "geometry": {
+        "coordinates": [
+          144.966857,
+          -37.815737
+        ],
+        "type": "Point"
+      },
+      "id": "f87c05ad36fd1b0577606353926eed4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "23",
+        "1:00": "23",
+        "sensor_name": "Col623_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2013/9/2",
+        "location": "(-37.81909256, 144.95452749)",
+        "sensor_description": "Spencer St-Collins St (South)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.954527,
+          -37.819092
+        ],
+        "type": "Point"
+      },
+      "id": "f916c393fcbe008b7636c9eb35f27fe6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "56",
+        "1:00": "4",
+        "sensor_name": "Lon364_T",
+        "direction_1": "East",
+        "direction_2": "West",
+        "note": "",
+        "status": "A",
+        "installation_date": "2018/7/25",
+        "location": "(-37.81234775, 144.96153311)",
+        "sensor_description": "Lonsdale St - Elizabeth St (North)"
+      },
+      "geometry": {
+        "coordinates": [
+          144.961533,
+          -37.812347
+        ],
+        "type": "Point"
+      },
+      "id": "f93dc475693e936d1065e5307b84158e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "",
+        "sensor_id": "65",
+        "1:00": "42",
+        "sensor_name": "SwaCs_T",
+        "direction_1": "North",
+        "direction_2": "South",
+        "note": "",
+        "status": "A",
+        "installation_date": "2020/3/12",
+        "location": "(-37.81569416, 144.96680641)",
+        "sensor_description": "Swanston St - City Square"
+      },
+      "geometry": {
+        "coordinates": [
+          144.966806,
+          -37.815694
+        ],
+        "type": "Point"
+      },
+      "id": "fbc782896b93d90d79f8af9beaed20b9"
+    }
+  ],
+  "type": "FeatureCollection"
+}
